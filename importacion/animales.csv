@@ -1,0 +1,5 @@
+id,nombre,especie,edad,peso,tipo,extra1,extra2,extra3,extra4
+1,Luna,Perro,1,2.5,domestico,true,true,true,
+2,Michi,Gato,2,4.2,domestico,false,true,true,
+3,Tigre,Panthera tigris,5,220.0,salvaje,Selva,true,true,false
+4,Aguila,Aguila real,4,6.1,salvaje,Montaña,false,true,true
